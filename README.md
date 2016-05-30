@@ -5,6 +5,7 @@ Implements checking the validity of provided urls
 ## Running
 
 `bundle install`
+
 `ruby url_checker.rb <your url>`
 
 For example: `ruby url_checker.rb https://google.pl`
